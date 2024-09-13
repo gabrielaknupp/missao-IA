@@ -51,9 +51,10 @@ const perguntas = [
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao: "afirmação"
             },
+            {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA."
                 afirmacao: "afirmação"
-        }
+            }
         ]
     },
     {
